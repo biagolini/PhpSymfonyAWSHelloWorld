@@ -16,11 +16,11 @@ In Tutorial Parts 1 and 2, we will provide a comprehensive, step-by-step guide t
 
 ## Contributing
 
-If you have any suggestions, improvements, or issues, feel free to open a pull request or create an issue on GitHub. Contributions are always welcome!
+Feel free to submit issues, create pull requests, or fork the repository to help improve the project.
 
-## License
+## License and Disclaimer
 
-This project is open-source and licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is open-source and available under the MIT License. You are free to copy, modify, and use the project as you wish. However, any responsibility for the use of the code is solely yours. Please use it at your own risk and discretion.
 
 ## References
 
